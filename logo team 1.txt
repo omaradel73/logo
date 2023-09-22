@@ -1,0 +1,13 @@
+#include<stdio.h>
+void main(){
+    printf("SSSSSSS TTTTTTTT UU    UU DDDDDD  EEEEEEE NNN    NN TTTTTTTT SSSSSSS     \n");
+    printf("SS         TT    UU    UU DD   DD EE      NNNN   NN    TT    SS          \n");
+    printf("SS         TT    UU    UU DD   DD EE      NNNN   NN    TT    SS          \n");
+    printf("SSSSSSS    TT    UU    UU DD   DD EEEEE   NN NN  NN    TT    SSSSSSS     \n");
+    printf("     SS    TT    UU    UU DD   DD EE      NN  NN NN    TT         SS     \n");
+    printf("SSSSSSS    TT     UUUUUU  DDDDDD  EEEEEEE NN   NNNN    TT    SSSSSSS     \n");
+    printf("\n\n@Made by TEAM1 (Fares Mostafa - Hassan Mohamed - Omar Adel - Youssef Tamer - Youssef Walid)\n");
+
+
+
+}
